@@ -1,9 +1,17 @@
-# Codealo Web App Template
+# Red Social de Trekking
 
-This is the base template that we can use to create new projects with Codealo.
+Página donde puedes compartir información sobre una ruta en particular de trekking, Yelp para Trekking.
 
-Give a boilerplate code to our members so that they can go in and start programming without need for something else.
+Plataforma que te permite compartir información sobre una ruta de trekking y funcionar como un diario de las rutas hechas.
 
-Instructions to run each of the diferent frameworks should be in a `README.md` file.
+## Objetivos
 
-
+- Hacer investigación de mercado con tus amigos de trekking.
+- Buscar la ruta que vas a hacer.
+- Crear una nueva entrada a tu diario al elegir tu ruta.
+- Dentro del diario permitir escribir sobre:
+    - Reflexión de la ruta.
+    - Cuanto duro el trek.
+    - Dificultad.
+- Tener una vista que muestre todos tus treks anteriores.
+- Facilmente compartir tu trek en redes sociales.
