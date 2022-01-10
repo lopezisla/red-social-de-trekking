@@ -28,7 +28,7 @@ export default function Home() {
           <a href="" className={styles.card}>
             <h2>Just walk around</h2>
           </a>
-        </div>
+        </div> 
       </main>
 
       <footer className={styles.footer}>
